@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 文字冒险设计"
+  short_description: "设计、审查并扩展规则驱动且具有持续后果的 AI 文字冒险"
+  default_prompt: "使用 $design-ai-adventures 设计或审查一个具有稳定规则、自由输入和持续后果的 AI 文字冒险。"
